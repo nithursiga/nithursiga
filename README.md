@@ -49,8 +49,9 @@
 
 <!-- Fun Quote Section with style -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=I+code+like+a+sunflower+🌻;+Always+turning+toward+the+light+of+new+ideas+and+clean+syntax!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Like+a+sunflower+follows+the+sun,+I+follow+clean+code.;Always+growing+toward+clarity+and+logic.🌻" />
 </div>
+
 
 
 <br/>
