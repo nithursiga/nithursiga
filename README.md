@@ -1,52 +1,60 @@
+<!-- Typing Animation with Yellow Font -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=ffc119&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Nithursiga+Ramesh!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ffc119&center=true&vCenter=true&width=600&height=70&duration=3000&pause=1000&lines=Hey+there+👋;+I'm+Nithursiga+Ramesh!" />
 </h1>
 
-
-<h3 align="center">Software Engineering undergraduate at Informatics Institute of Technology</h3>
+<!-- Subtitle -->
+<h3 align="center">🎓 Software Engineering Undergraduate @ IIT | 💻 Full Stack Explorer</h3>
 
 <br/>
 
+<!-- About Me Section -->
 <div align="center">
- 
- 🔭 I’m interested in **full stack development, web applications, and cloud computing**
- 
- 🌱 **I’m currently learning React, Node.js, and AWS**
-
- 💞️ I’m looking to collaborate on real-world projects to gain experience in full stack development
-
- ⚡ Fun fact: I am a graphic designer too, who can design a poster without any content given to me!
-
- </div>
- <br>
-
-<div align="center">
-    <a href="mailto:sumatharans@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
-    <a href="https://www.linkedin.com/in/srishankar-sumatharan/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc119&height=150&section=header&text=Welcome!&fontSize=40&fontAlignY=35&fontColor=000000" />
 </div>
 
- <hr/>
- 
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,figma,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,java,mysql" /><br>
+  <p>🚀 Passionate about <b>full stack development</b> & <b>cloud tech</b></p>
+  <p>🛠️ Currently building with <b>React, Node.js & AWS</b></p>
+  <p>🎨 Graphic Designer by passion — if it’s blank, I’ll make it bold!</p>
+  <p>🤝 Open to collaborating on real-world projects to gain and share knowledge</p>
 </div>
 
 <br/>
 
+<!-- Contact Badges -->
+<div align="center">
+  <a href="mailto:sumatharans@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/srishankar-sumatharan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br/>
 <hr/>
 
+<!-- Tech Stack Section -->
+<h2 align="center">🛠️ Tools, Languages & Frameworks</h2>
 <br/>
-
 <div align="center">
-    <p><span style="font-family: Righteous, sans-serif; font-size: 30px; font-weight: bold; color: #4a90e2;">I code like a ninja, except without the stealth or martial arts skills. Just lots of coffee and keyboard tapping! ☕️💻</span></p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,python,java,mysql,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,mui,vscode,github,figma" />
 </div>
 
+<br/>
+<hr/>
+<br/>
+
+<!-- Fun Quote Section with style -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=I+code+like+a+ninja+💻;+Except+no+stealth+or+karate+skills...;+Just+coffee+and+keyboard+tapping!+☕️" />
+</div>
 
 <br/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc119&height=120&section=footer"/>
+</div>
